@@ -1,0 +1,10 @@
+ea4bc82a6ad023ab7ee23ee620429895
+::res://::1707249262
+icon.svg::CompressedTexture2D::2860998920081831943::1706439244::1706439250::1::::<><>::
+mapod.gd::GDScript::-1::1707211822::0::1::::<>RigidBody3D<>::
+node.gd::GDScript::-1::1707246929::0::1::::<>Node<>::
+node.tscn::PackedScene::9141685795798181573::1707249059::0::1::::<><>::res://node.gd<>uid://cjl8jfokl80fg::::res://player_spawner_area.tscn
+player.gd::GDScript::-1::1707248619::0::1::::<>Node3D<>::
+player.tscn::PackedScene::8220065767792416396::1707249060::0::1::::<><>::res://mapod.gd<>res://player.gd
+player_spawner_area.gd::GDScript::-1::1707246904::0::1::::<>Marker3D<>::
+player_spawner_area.tscn::PackedScene::5429269133043981068::1707169440::0::1::::<><>::res://player_spawner_area.gd
